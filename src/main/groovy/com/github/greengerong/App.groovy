@@ -28,8 +28,6 @@ class App {
     }
 
     static def dummyBanners() {
-        // generate banner url: http://patorjk.com/software/taag/#p=testall&f=Blocks&t=CMB%20DevOps
-        // Font Name: Big Money-nw
         System.out << App.class.getResourceAsStream('/banners/banner.txt').text
     }
 

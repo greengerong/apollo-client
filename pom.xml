@@ -14,7 +14,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <groovyVersion>2.4.3</groovyVersion>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <log4j.version>1.2.16</log4j.version>
         <snakeyaml.version>1.17</snakeyaml.version>
         <reflections.version>0.9.11</reflections.version>

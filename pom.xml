@@ -20,7 +20,7 @@
         <reflections.version>0.9.11</reflections.version>
         <java.compiler.version>1.8</java.compiler.version>
         <maven-antrun-plugin.version>1.8</maven-antrun-plugin.version>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-lang3.version>3.6</commons-lang3.version>
     </properties>
 
